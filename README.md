@@ -8,8 +8,10 @@ Authors: Aubrey Woodrow
 + TTAP: Data Structures—Lab Manual by Peter-Michael Osera
     https://osera.cs.grinnell.edu/ttap/data-structures-labs/text-editor.html
     - Provided instructions for project
-+ Java 8 String API https://docs.oracle.com/javase/8/docs/api/java/lang/String.html
-    - Referenced for split() method to get data from the tab-delimited data entries
++ Java 8 String and Random API https://docs.oracle.com/javase/8/docs/api/java/lang/String.html
+    https://docs.oracle.com/javase/8/docs/api/java/util/Random.html
+    - Referenced String for split() method to get data from the tab-delimited data entries
+    - Referenced Random for help on nextInt() method parameters
 
 ## Revision Log
 
