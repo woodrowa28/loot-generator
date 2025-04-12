@@ -1,4 +1,4 @@
-package edu.grinnell.csc207.lootgenerator.datatype;
+package edu.grinnell.csc207.lootgenerator.datatypes;
 
 public class Armor {
     

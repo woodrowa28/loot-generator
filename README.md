@@ -1,12 +1,15 @@
 # Project: Loot Generator
 
-Authors: (_TODO: fill in names here!_)
+Authors: Aubrey Woodrow
 
 ## Resources
 
-*   (_TODO: fill in resources here!_)
-*   ...
-*   ...
++ Code constructed with JDK23 using Apache NetBeans 24
++ TTAP: Data Structures—Lab Manual by Peter-Michael Osera
+    https://osera.cs.grinnell.edu/ttap/data-structures-labs/text-editor.html
+    - Provided instructions for project
++ Java 8 String API https://docs.oracle.com/javase/8/docs/api/java/lang/String.html
+    - Referenced for split() method to get data from the tab-delimited data entries
 
 ## Revision Log
 

@@ -1,6 +1,6 @@
-package edu.grinnell.csc207.lootgenerator.datatype;
+package edu.grinnell.csc207.lootgenerator.datatypes;
 
-public class MagicPrefix {
+public class MagicSuffix {
     
     private String name;
     
@@ -17,7 +17,7 @@ public class MagicPrefix {
      * @param modmin the minimum stat value
      * @param modmax the maximum stat value
      */
-    public MagicPrefix(String name, String modcode, int modmin, int modmax) {
+    public MagicSuffix(String name, String modcode, int modmin, int modmax) {
         this.name = name;
         this.modcode = modcode;
         this.modmin = modmin;
