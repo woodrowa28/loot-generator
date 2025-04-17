@@ -15,4 +15,44 @@ Authors: Aubrey Woodrow
 
 ## Revision Log
 
-*   (_TODO: fill in your changes to your project here!_)
+commit e843dee3b789b7174458e171242720cfbbed07a5 (HEAD -> main)
+Author: Aubrey Woodrow <woodrowa@grinnell.edu>
+Date:   Wed Apr 16 21:45:11 2025 -0500
+    Added comprehensive tests
+
+commit 269bc92800fcaf62228cf2d87276ff359658cc0b (origin/main)
+Author: Aubrey Woodrow <woodrowa@grinnell.edu>
+Date:   Sat Apr 12 22:08:06 2025 -0500
+
+    Filled out main program loop and functionality
+                                                                                                                                                                                          
+commit 34b21bb4efffd887e7dd287f9c8649394e4a2cae                                                                                                                                           
+Author: Aubrey Woodrow <woodrowa@grinnell.edu>                                                                                                                                            
+Date:   Sat Apr 12 18:07:59 2025 -0500                                                                                                                                                    
+                                                                                                                                                                                          
+    Main program structure with basic function skeletons                                                                                                                                  
+                                                                                                                                                                                          
+commit 7cadd38fafaba0f6ceb546ae71210402aa3b9b09                                                                                                                                           
+Author: Aubrey Woodrow <woodrowa@grinnell.edu>                                                                                                                                            
+Date:   Sat Apr 12 17:13:02 2025 -0500                                                                                                                                                    
+                                                                                                                                                                                          
+    Created file reading and data storage methods, changed package name                                                                                                                   
+                                                                                                                                                                                          
+commit 4503923db9edf931dac1cc1c7028f8b84b531975                                                                                                                                           
+Author: Aubrey Woodrow <woodrowa@grinnell.edu>                                                                                                                                            
+Date:   Tue Apr 8 23:32:16 2025 -0500                                                                                                                                                     
+                                                                                                                                                                                          
+    Created basic data type classes for file parsing                                                                                                                                      
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+commit b5551e9aaf56850583b73ed93fef19dc98bc03f5                                                                                                                                           
+Author: Peter-Michael Osera <osera@cs.grinnell.edu>                                                                                                                                       
+Date:   Sun Apr 6 16:41:00 2025 -0500                                                                                                                                                     
+                                                                                                                                                                                          
+    project files                                                                                                                                                                         
+                                                                                                                                                                                          
+commit 192fcf589e86432a004a47a9cc3118264b894225                                                                                                                                           
+Author: Peter-Michael Osera <osera@cs.grinnell.edu>                                                                                                                                       
+Date:   Sun Apr 6 16:40:56 2025 -0500                                                                                                                                                     
+                                                                                                                                                                                          
+    initial commit 
