@@ -7,6 +7,11 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
 
+/**
+ * Reads in data from appropriate data files to fill in data structures for
+ * monsters, treasure classes, armors, and affixes.
+ * @author Aubrey Woodrow
+ */
 public class DataReader {
     
     /**

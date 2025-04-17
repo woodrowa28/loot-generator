@@ -1,5 +1,9 @@
 package edu.grinnell.csc207.lootgenerator.datatypes;
 
+/**
+ * A possible prefix for an armor item. Has a type of stat and max/min stat values
+ * @author Aubrey Woodrow
+ */
 public class MagicPrefix {
     
     private String name;

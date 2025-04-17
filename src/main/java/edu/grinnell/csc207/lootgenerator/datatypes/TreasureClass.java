@@ -1,5 +1,11 @@
 package edu.grinnell.csc207.lootgenerator.datatypes;
 
+/**
+ * Details for a treasure class. Has a class name and the names of the 3 items contained
+ * within this treasure class. These items can either be the names of other treasure classes
+ * or individual armor pieces.
+ * @author Aubrey Woodrow
+ */
 public class TreasureClass {
     
     private String treasureClass;

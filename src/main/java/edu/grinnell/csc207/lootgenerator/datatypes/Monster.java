@@ -1,5 +1,10 @@
 package edu.grinnell.csc207.lootgenerator.datatypes;
 
+/**
+ * Details for a monster type. Has a name, type, level (type and level are irrelevant for
+ * program but present in data files), and treasure class that details what loot is dropped.
+ * @author Aubrey Woodrow
+ */
 public class Monster {
     
     private String monsterClass;

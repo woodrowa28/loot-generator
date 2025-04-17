@@ -39,7 +39,7 @@ public class Tests {
         Armor armor;
         int defense;
         for (int i = 0; i < 50; i++) {
-            armor = LootGenerator.generateBaseItem(rand, LootGenerator.fetchTreasureClass(rand,
+            armor = LootGenerator.generateBaseItem(rand, LootGenerator.fetchTreasureClass(
                     LootGenerator.pickMonster(rand)));
             defense = LootGenerator.generateBaseStats(rand, armor);
             assertTrue(defense >= armor.getMinac());

@@ -1,5 +1,9 @@
 package edu.grinnell.csc207.lootgenerator.datatypes;
 
+/**
+ * Details for an armor item. Has a name and min/max defense values.
+ * @author Aubrey Woodrow
+ */
 public class Armor {
     
     private String name;

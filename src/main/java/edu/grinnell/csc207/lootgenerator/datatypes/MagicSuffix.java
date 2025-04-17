@@ -1,5 +1,9 @@
 package edu.grinnell.csc207.lootgenerator.datatypes;
 
+/**
+ * A possible suffix for an armor item. Has a type of stat and max/min stat values
+ * @author Aubrey Woodrow
+ */
 public class MagicSuffix {
     
     private String name;
