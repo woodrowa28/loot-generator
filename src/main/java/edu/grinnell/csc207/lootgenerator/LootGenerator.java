@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 public class LootGenerator {
     /** The path to the dataset (either the small or large set). */
-    public static final String DATA_SET = "data/small";
+    public static final String DATA_SET = "data/large";
     
     public static void main(String[] args) throws FileNotFoundException {
         System.out.println("This program kills monsters and generates loot!");
