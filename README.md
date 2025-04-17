@@ -15,9 +15,22 @@ Authors: Aubrey Woodrow
 
 ## Revision Log
 
+commit 57873befbae70e9935c0e68f3c51da175ff0f6ba (HEAD -> main, origin/main)
+Author: Aubrey Woodrow <woodrowa@grinnell.edu>
+Date:   Wed Apr 16 22:21:26 2025 -0500
+
+    Javadoc comments for all functions
+
+commit 8c72532aeeefb32a0bac78a89617c3c001fd7334
+Author: Aubrey Woodrow <woodrowa@grinnell.edu>
+Date:   Wed Apr 16 21:48:03 2025 -0500
+
+    Git log in README
+                                                                                                                                                                                          
 commit e843dee3b789b7174458e171242720cfbbed07a5 (HEAD -> main)
 Author: Aubrey Woodrow <woodrowa@grinnell.edu>
 Date:   Wed Apr 16 21:45:11 2025 -0500
+
     Added comprehensive tests
 
 commit 269bc92800fcaf62228cf2d87276ff359658cc0b (origin/main)

@@ -171,7 +171,7 @@ public class LootGenerator {
             again = input.nextLine();
             if (again.equals("Y") || again.equals("y")) {
                 return true;
-            } else if(again.equals("N") || again.equals("n")) {
+            } else if (again.equals("N") || again.equals("n")) {
                 return false;
             }
         }
